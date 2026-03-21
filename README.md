@@ -61,14 +61,14 @@
 
 ### Concepts I work with
 <p align="left">
-  <img src="https://img.shields.io/badge/CNN-8B5CF6?style=flat" alt="CNN" title="Convolutional Neural Networks" />
-  <img src="https://img.shields.io/badge/RNN-6366F1?style=flat" alt="RNN" title="Recurrent Neural Networks" />
-  <img src="https://img.shields.io/badge/LSTM-4F46E5?style=flat" alt="LSTM" title="Long Short-Term Memory" />
-  <img src="https://img.shields.io/badge/Transformers-EC4899?style=flat" alt="Transformers" title="Transformers Architecture" />
-  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat" alt="RAG" title="Retrieval-Augmented Generation" />
-  <img src="https://img.shields.io/badge/XGBoost-16A34A?style=flat" alt="XGBoost" title="XGBoost" />
-  <img src="https://img.shields.io/badge/LightGBM-65A30D?style=flat" alt="LightGBM" title="LightGBM" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-F59E0B?style=flat" alt="Feature Engineering" title="Feature Engineering" />
+  <img src="https://img.shields.io/badge/CNN-8B5CF6?style=flat-square" alt="CNN" title="Convolutional Neural Networks" />
+  <img src="https://img.shields.io/badge/RNN-6366F1?style=flat-square" alt="RNN" title="Recurrent Neural Networks" />
+  <img src="https://img.shields.io/badge/LSTM-4F46E5?style=flat-square" alt="LSTM" title="Long Short-Term Memory" />
+  <img src="https://img.shields.io/badge/Transformers-EC4899?style=flat-square" alt="Transformers" title="Transformers Architecture" />
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square" alt="RAG" title="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/XGBoost-16A34A?style=flat-square" alt="XGBoost" title="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-65A30D?style=flat-square" alt="LightGBM" title="LightGBM" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-F59E0B?style=flat-square" alt="Feature Engineering" title="Feature Engineering" />
 </p>
 
 ---
@@ -120,9 +120,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=pragati-jain340&show_icons=true&theme=default&hide_border=true&hide=stars,issues,contribs&hide_rank=true" alt="GitHub stats" />
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=pragati-jain340&show_icons=true&theme=default&hide_border=true&hide=stars,issues,contribs&hide_rank=true&title_color=7C3AED&icon_color=7C3AED" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-jain340&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-jain340&layout=compact&theme=default&hide_border=true&title_color=7C3AED" alt="Top languages" />
 </p>
 
 ---
