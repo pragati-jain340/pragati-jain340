@@ -24,7 +24,7 @@
 
 - B.Tech Computer Engineering @ **Aligarh Muslim University** (2023–2027)  
 - Research Intern @ **IIT BHU**  
----
+
 
 ## 🚀 Current Focus
 
