@@ -1,33 +1,20 @@
 <div align="center">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr align="center">
-<td width="33%" align="right" valign="middle">
-  <font size="5"><b>AI/ML Researcher</b></font><br/>
-  <font size="4" color="#666">Computer Vision Enthusiast</font>
-</td>
-<td width="34%" align="center" valign="middle">
-  <img src="myimage.png" width="220" />
-</td>
-<td width="33%" align="left" valign="middle">
-  <font size="6"><b>Pragati Jain</b></font><br/>
-  <font size="4" color="#666">aka Pragati</font>
-</td>
-</tr>
-</table>
+<img src="myimage.png" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student%20at-AMU-015822?style=flat-square&logo=google-scholar&logoColor=white" height="22" /> &nbsp;
-  <!-- <img src="https://img.shields.io/badge/Past-IIT%20BHU-E34234?style=flat-square&logo=google-scholar&logoColor=white" height="22" /> -->
-</p>
+<br/>
 
 <p align="center">
   <a href="https://pragati-jain.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-pragati--jain.xyz-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-pragati--jain.xyz-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" height="32" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+intelligent+AI+systems+for+real-world+impact;Computer+Vision+%7C+RAG+Workflows+%7C+Research;Turning+ideas+and+papers+into+working+products" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Student%20at-AMU-015822?style=flat-square&logo=google-scholar&logoColor=white" height="24" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Building+intelligent+AI+systems+for+real-world+impact;Computer+Vision+%7C+RAG+Workflows+%7C+Research;Turning+ideas+and+papers+into+working+products" alt="Tagline Animation" />
 
 </div>
 
@@ -144,17 +131,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pragati-jain340&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-jain340&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pragati-jain340&show_icons=true&theme=radical&hide_border=true&hide=stars,issues,contribs&hide_rank=true&title_color=7C3AED&icon_color=7C3AED&text_color=E5E7EB&bg_color=0D1117" alt="GitHub stats" />
   <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-jain340&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-jain340&layout=compact&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=E5E7EB&bg_color=0D1117" alt="Top languages" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pragati-jain340&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub trophies" />
-</div>
 
 ---
 
