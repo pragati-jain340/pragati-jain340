@@ -14,15 +14,18 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub Personal Access Token (stored as METRICS_TOKEN in secrets)
+          # This MUST match the name of the secret in your repository (METRICS_TOKEN)
           token: ${{ secrets.METRICS_TOKEN }}
-          user: pragati-jain340
+          
+          # General configuration
           template: classic
-          base: ""
           config_timezone: Asia/Kolkata
+          
+          # Plugin: ISO Calendar (This is the labeled contribution graph)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          # Output configuration
+          
+          # Output branch configuration
           filename: github-metrics.svg
           committer_branch: metrics
-          committer_message: "chore: update metrics"
+          committer_message: "chore: update metrics [skip ci]"
