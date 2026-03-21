@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  # Schedule daily updates (every 24 hours at midnight)
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing to main
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub Personal Access Token (stored as METRICS_TOKEN in secrets)
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: pragati-jain340
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # Output configuration
+          filename: github-metrics.svg
+          committer_branch: metrics
+          committer_message: "chore: update metrics"
