@@ -1,28 +1,33 @@
 <div align="center">
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="65%" align="left" valign="middle">
-  <p align="left">
-    <font size="7"><b>Pragati Jain</b></font>
-    <br/>
-    <font size="5" color="#555">AI/ML Researcher & Computer Vision Enthusiast</font>
-    <br/><br/>
-    <a href="https://pragati-jain.xyz" target="_blank">
-      <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-pragati--jain.xyz-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" height="32" />
-    </a>
-    <br/><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=false&vCenter=true&width=600&lines=Building+intelligent+AI+systems+for+real-world+impact;Computer+Vision+%7C+RAG+Workflows+%7C+Research;Turning+ideas+and+papers+into+working+products" alt="Typing SVG" />
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Student%20at-AMU-015822?style=flat-square&logo=google-scholar&logoColor=white" height="24" /> &nbsp;
-    <img src="https://img.shields.io/badge/Past-IIT%20BHU-E34234?style=flat-square&logo=google-scholar&logoColor=white" height="24" />
-  </p>
+<tr align="center">
+<td width="33%" align="right" valign="middle">
+  <font size="5"><b>AI/ML Researcher</b></font><br/>
+  <font size="4" color="#666">Computer Vision Enthusiast</font>
 </td>
-<td width="35%" align="right" valign="middle">
+<td width="34%" align="center" valign="middle">
   <img src="myimage.png" width="220" />
+</td>
+<td width="33%" align="left" valign="middle">
+  <font size="6"><b>Pragati Jain</b></font><br/>
+  <font size="4" color="#666">aka Pragati</font>
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student%20at-AMU-015822?style=flat-square&logo=google-scholar&logoColor=white" height="22" /> &nbsp;
+  <!-- <img src="https://img.shields.io/badge/Past-IIT%20BHU-E34234?style=flat-square&logo=google-scholar&logoColor=white" height="22" /> -->
+</p>
+
+<p align="center">
+  <a href="https://pragati-jain.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-pragati--jain.xyz-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" height="30" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+intelligent+AI+systems+for+real-world+impact;Computer+Vision+%7C+RAG+Workflows+%7C+Research;Turning+ideas+and+papers+into+working+products" alt="Typing SVG" />
 
 </div>
 
