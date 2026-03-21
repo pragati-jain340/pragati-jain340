@@ -1,19 +1,11 @@
-<div align="center">
-  <img src="myimage.png" width="850" />
-</div>
+<div align="center"><img src="myimage.png" width="100%" /></div>
 
-<br/>
-
-<div align="center">
+---
+<p align="left">
   <a href="https://pragati-jain.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-pragati--jain.xyz-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" height="32" />
   </a>
-</div>
-
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/Student%20at-AMU-015822?style=flat-square&logo=google-scholar&logoColor=white" height="24" />
-</div> -->
-
+</p>
 
 ### Hey there! 👋
 
@@ -21,6 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=pragati-jain340&style=for-the-badge&color=7C3AED" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/pragati-jain340?style=for-the-badge&color=8B5CF6&labelColor=1f2937" alt="GitHub followers" />
 </p>
+
+<br/>
+
 
 ## I'm Pragati Jain!
 
