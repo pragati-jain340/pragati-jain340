@@ -1,24 +1,22 @@
-<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="myimage.png" width="950" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://pragati-jain.xyz" target="_blank">
+        <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-pragati--jain.xyz-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" height="32" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="myimage.png" width="100%" />
-
-<br/>
-
-<p align="center">
-  <a href="https://pragati-jain.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-pragati--jain.xyz-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" height="32" />
-  </a>
-</p>
-
-<p align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/Student%20at-AMU-015822?style=flat-square&logo=google-scholar&logoColor=white" height="24" />
-</p>
+</div> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Building+intelligent+AI+systems+for+real-world+impact;Computer+Vision+%7C+RAG+Workflows+%7C+Research;Turning+ideas+and+papers+into+working+products" alt="Tagline Animation" />
-
-</div>
-
----
 
 ### Hey there! 👋
 
@@ -123,6 +121,10 @@
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/pragati-jain340/pragati-jain340/metrics/github-metrics.svg" alt="Metrics Calendar" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/pragati-jain340/pragati-jain340/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
@@ -131,9 +133,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pragati-jain340&show_icons=true&theme=radical&hide_border=true&hide=stars,issues,contribs&hide_rank=true&title_color=7C3AED&icon_color=7C3AED&text_color=E5E7EB&bg_color=0D1117" alt="GitHub stats" />
-  <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-jain340&layout=compact&theme=radical&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=E5E7EB&bg_color=0D1117" alt="Top languages" />
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=pragati-jain340&show_icons=true&theme=default&hide_border=true&hide=stars,issues,contribs&hide_rank=true" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-jain340&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
 ---
