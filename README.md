@@ -47,6 +47,7 @@
   <img src="./techstack_images/file_type_numpy.svg" width="35" alt="NumPy" title="NumPy" />
   <img src="./techstack_images/file_type_excel2.svg" width="35" alt="Excel" title="Microsoft Excel" />
   <img src="./techstack_images/file_type_vscode3.svg" width="35" alt="VS Code" title="Visual Studio Code" />
+  <img src="./techstack_images/file_type_docker2.svg" width="35" alt="Docker" title="Docker" />
 </p>
 
 ### AI / ML / Research

@@ -73,6 +73,7 @@ export const techStack = {
     { name: "SQL", icon: "./techstack_images/file_type_sql.svg" },
     { name: "HTML", icon: "./techstack_images/file_type_html.svg" },
     { name: "CSS", icon: "./techstack_images/file_type_css2.svg" },
+    { name: "Docker", icon: "./techstack_images/file_type_docker2.svg" },
   ],
   tools: [
     { name: "Jupyter", icon: "./techstack_images/file_type_jupyter.svg" },
